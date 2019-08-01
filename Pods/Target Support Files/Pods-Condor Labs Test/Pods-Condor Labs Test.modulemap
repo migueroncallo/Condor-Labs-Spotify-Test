@@ -1,0 +1,6 @@
+framework module Pods_Condor_Labs_Test {
+  umbrella header "Pods-Condor Labs Test-umbrella.h"
+
+  export *
+  module * { export * }
+}
